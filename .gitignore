@@ -13,8 +13,6 @@ record
 
 *.log
 
-*.csv
-
 *.pt
 
 pretrain_model/
