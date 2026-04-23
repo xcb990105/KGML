@@ -1,4 +1,4 @@
-This repository provides the code implementation for the paper **"A Knowledge-Guided Machine Learning Prediction Framework for Metal Ion-Organic Compound Interactions under Data-Sparse Conditions"**. It includes the three methods proposed in the article: **Model-Base**, **Model-KG**, and **Model-KGE**. 
+This repository provides the code implementation for the paper **"A Knowledge-Guided Machine Learning Framework for Metal-Ligand Interactions Prediction in Metal Recovery under Data-Scarce Conditions"**. It includes the three methods proposed in the article: **Model-Base**, **Model-KG**, and **Model-KGE**. 
 
 The framework is capable of predicting the binding free energy between metal ions and organic compounds under the guidance of prior chemical knowledge.
 
