@@ -22,4 +22,4 @@ Running command (taking Model-KG as an example):
 python main.py
 ```
 
-Additionally, model interpretability can be achieved by extracting attention weights using the `get_attention` method in the `GATDeltaGModel` object (Figure 4e), and hidden layer features can be extracted using the `get_feature_map` method (Figure 4c, 4d).
+Additionally, model interpretability can be achieved by extracting attention weights using the `get_attention` method in the `GATDeltaGModel` object (Figure 8), and hidden layer features can be extracted using the `get_feature_map` method (Figure 7b, 7c).
