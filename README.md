@@ -1,4 +1,4 @@
-This repository provides the code implementation for the paper **"A Knowledge-Guided Machine Learning Framework for Metal-Ligand Interactions Prediction in Metal Recovery under Data-Scarce Conditions"**. It includes the three methods proposed in the article: **Model-Base**, **Model-KG**, and **Model-KGE**. 
+This repository provides the code implementation for the paper **"A Knowledge-Guided Machine Learning Framework for Metal-Ligand Interaction Prediction in Metal Recovery under Data-Scarce Conditions"**. It includes the three methods proposed in the article: **Model-Base**, **Model-KG**, and **Model-KGE**. 
 
 The framework is capable of predicting the binding free energy between metal ions and organic compounds under the guidance of prior chemical knowledge.
 
@@ -22,4 +22,4 @@ Running command (taking Model-KG as an example):
 python main.py
 ```
 
-Additionally, model interpretability can be achieved by extracting attention weights using the `get_attention` method in the `GATDeltaGModel` object (Figure 8), and hidden layer features can be extracted using the `get_feature_map` method (Figure 7b, 7c).
+Additionally, model interpretability can be achieved by extracting attention weights using the `get_attention` method in the `GATDeltaGModel` object (Figure 8), and hidden layer features can be extracted using the `get_feature_map` method (Figure 7c, 7d).
